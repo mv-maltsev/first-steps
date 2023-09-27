@@ -127,6 +127,7 @@ if (login == 'Сотрудник') {
   message = 'Нет логина';
 } else {
   message = '';
+  hh
 } */
 
 let message = (login == 'Сотрудник') ? 'Привет' :
